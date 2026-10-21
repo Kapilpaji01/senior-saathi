@@ -1,0 +1,29 @@
+[
+  {
+    "id": "EC001",
+    "userId": "SEN001",
+    "name": "Amit Sharma",
+    "relation": "Son",
+    "phone": "9888888888",
+    "priority": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "EC002",
+    "userId": "SEN001",
+    "name": "Sunita Sharma",
+    "relation": "Daughter",
+    "phone": "9555555555",
+    "priority": 2,
+    "isPrimary": false
+  },
+  {
+    "id": "EC003",
+    "userId": "SEN002",
+    "name": "Neha Verma",
+    "relation": "Daughter",
+    "phone": "9666666666",
+    "priority": 1,
+    "isPrimary": true
+  }
+]
