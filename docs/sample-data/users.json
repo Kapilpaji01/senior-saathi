@@ -1,0 +1,44 @@
+[
+  {
+    "id": "SEN001",
+    "name": "Ramesh Sharma",
+    "age": 68,
+    "gender": "Male",
+    "city": "Bhopal",
+    "bloodGroup": "B+",
+    "preferredLanguage": "Hindi",
+    "phone": "9999999999",
+    "medicalConditions": [
+      "Hypertension"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "emergencyContact": {
+      "name": "Amit Sharma",
+      "relation": "Son",
+      "phone": "9888888888"
+    }
+  },
+  {
+    "id": "SEN002",
+    "name": "Savitri Verma",
+    "age": 72,
+    "gender": "Female",
+    "city": "Bhopal",
+    "bloodGroup": "O+",
+    "preferredLanguage": "Hindi",
+    "phone": "9777777777",
+    "medicalConditions": [
+      "Diabetes"
+    ],
+    "allergies": [
+      "None"
+    ],
+    "emergencyContact": {
+      "name": "Neha Verma",
+      "relation": "Daughter",
+      "phone": "9666666666"
+    }
+  }
+]
